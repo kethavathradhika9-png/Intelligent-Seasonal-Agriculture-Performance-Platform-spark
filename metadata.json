@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Seasonal Agriculture Performance Platform",
+  "description": "Seasonal agriculture performance analysis and decision support platform for agricultural metrics, environmental factors, and regional patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
