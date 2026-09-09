@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base:'/Intelligent-seasonal-Agriculture-permance-platform-spark/',
+    base:'/Intelligent-seasonal-Agriculture-performance-platform-spark/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
